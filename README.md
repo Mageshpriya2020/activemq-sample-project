@@ -1,2 +1,12 @@
 # activemq-sample-project
-Demo project showing JMS messaging with SpringBoot and ActiveMQ
+  This is a simple activemq project
+
+##Features
+* Send and Receive messages using JMS
+
+#Prerequisites
+- java 17
+- Maven
+- ActiveMQ broker running locally on tcp://localhost:61616
+
+
